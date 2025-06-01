@@ -1,0 +1,8 @@
+
+
+streamlit run "/Users/prathameshpatil/Desktop/Multiple disease Predicting System/MultipleDisease.py"
+
+
+
+
+streamlit run '/Users/prathameshpatil/opt/anaconda3/pkgs/xlsxwriter-3.0.3-pyhd3eb1b0_0/site-packages/xlsxwriter/app.py'
